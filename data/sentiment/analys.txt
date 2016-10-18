@@ -1,0 +1,9 @@
+0 awful!
+1 not awful!
+4 excellent!
+3 not excellent!
+3 It is remarkable.
+2 It is not remarkable.
+2 It is not remarkable because of its epic scope.
+3 It is not remarkable because of its epic scope , but because of the startling intimacy it achieves despite that breadth .
+
